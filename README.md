@@ -8,6 +8,7 @@ These images are captured by webcams and robot's camera.
 
 ##### Sample extracted featrue from image data:
 Images are processed by OpenPose to extract human body pose.
+
 <img src="https://github.com/zhitianz/intent-inference/blob/master/196_rendered.png" width="320">
 
 The body pose keypoints are then stored in a JSON file: [0_keypoints.json](https://github.com/zhitianz/intent-inference/blob/master/0_keypoints.json).
