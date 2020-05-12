@@ -44,7 +44,7 @@ For the IROS2020 submission, we gathered around 50K frames and these features ca
 * [datay_im3_timestep10_10.csv](https://drive.google.com/file/d/1ojPuhh0n9UcEnFxuSQgPzKvOw7iAeKjh/view?usp=sharing)
 
 datax is the training data with a input sequence of 10 frames. 
-|Body keypoints (50 dimensions) |X |Y |Roll |Pitch |Yaw |
+||Body keypoints (50 dimensions) |X |Y |Roll |Pitch |Yaw |
 |---|---|---|---|---|---|
 |frame 0|
 |frame 1|
