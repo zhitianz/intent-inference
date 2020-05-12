@@ -37,8 +37,8 @@ They are then merged togther in [merged.csv](https://github.com/zhitianz/intent-
 0 |0.3928178497984502 |0.7167165492762879 |-0.12083437270945468 |0.02716215219414442 |0.7919105034594937 |
 
 For the IROS2020 submission, we gathered around 50K frames and these features can be downloaded here:
-+[datax_im3_timestep10_10.csv](https://drive.google.com/file/d/1M0wXy1s9IQQpZ0ZAbSLjioXZZLk57njU/view?usp=sharing)
-+[datay_im3_timestep10_10.csv](https://drive.google.com/file/d/1ojPuhh0n9UcEnFxuSQgPzKvOw7iAeKjh/view?usp=sharing)
+..* [datax_im3_timestep10_10.csv](https://drive.google.com/file/d/1M0wXy1s9IQQpZ0ZAbSLjioXZZLk57njU/view?usp=sharing)
+..* [datay_im3_timestep10_10.csv](https://drive.google.com/file/d/1ojPuhh0n9UcEnFxuSQgPzKvOw7iAeKjh/view?usp=sharing)
 
 
 
