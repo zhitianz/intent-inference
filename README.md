@@ -47,6 +47,7 @@ datax is the training data with a input sequence of 10 frames.
 Each columns are represented by:
 |Body keypoints (50 dimensions) |X |Y |Roll |Pitch |Yaw |
 |---|---|---|---|---|---|
+
 Rows are organized in this way:
 |frame 0|
 |---|
