@@ -60,6 +60,6 @@ datay in the training label with the future location, in this case 10 frames lat
 | |X |Y |
 |---|---|---|
 |frame 19|
-|frame|20|
+|frame 20|
 |...|
 
