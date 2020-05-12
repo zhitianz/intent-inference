@@ -54,5 +54,12 @@ datax is the training data with a input sequence of 10 frames.
 |frame 2|
 |...|
 |frame 10|
+|...|
 
+datay in the training label with the future location, in this case 10 frames later.
+| |X |Y |
+|---|---|---|
+|frame 19|
+|frame|20|
+|...|
 
