@@ -70,6 +70,7 @@ Each columns are represented by:
 
 Rows are organized in this way:
 |frame 19|
+|---|
 |frame 20|
 |...|
 
