@@ -45,7 +45,7 @@ For the IROS2020 submission, we gathered around 50K frames and these features ca
 
 datax is the training data with a input sequence of 10 frames. 
 |Body keypoints (50 dimensions) |X |Y |Roll |Pitch |Yaw |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 
 
 
