@@ -44,9 +44,20 @@ For the IROS2020 submission, we gathered around 50K frames and these features ca
 * [datay_im3_timestep10_10.csv](https://drive.google.com/file/d/1ojPuhh0n9UcEnFxuSQgPzKvOw7iAeKjh/view?usp=sharing)
 
 datax is the training data with a input sequence of 10 frames. 
+Each columns are represented by:
 |Body keypoints (50 dimensions) |X |Y |Roll |Pitch |Yaw |
 |---|---|---|---|---|---|
-
+Rows are organized in this way:
+|frame 0|
+|---|
+|frame 1|
+|...|
+|frame 9|
+|frame 1|
+|frame 2|
+|...|
+|frame 10|
+|...|
 
 
 datay in the training label with the future location, in this case 10 frames later.
